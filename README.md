@@ -1,4 +1,4 @@
-![goconnec-info](https://github.com/user-attachments/assets/b2b30d0f-7253-437b-be10-4d6aa9b12c47)
+![Professional networking platform designed to help developers](https://github.com/user-attachments/assets/de04c08d-3880-4257-b718-30390614b6c0)
 # GoConnect
 
 
