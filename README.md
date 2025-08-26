@@ -1,4 +1,4 @@
-![Professional networking platform designed to help developers](https://github.com/user-attachments/assets/de04c08d-3880-4257-b718-30390614b6c0)
+![welcome-background](https://github.com/user-attachments/assets/7c20fdff-e4fe-4c1c-9719-51a0708c229c)
 # GoConnect.dev
 
 **GoConnect** is a professional networking platform designed to help developers, startup co-founders, and innovators connect, share ideas, and foster collaboration in the tech industry. It is a community-driven space where individuals can enhance their technical skills, advance their careers, and collaborate on innovative projects.
