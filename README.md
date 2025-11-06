@@ -1,39 +1,35 @@
 ![welcome-background](https://github.com/user-attachments/assets/7c20fdff-e4fe-4c1c-9719-51a0708c229c)
-# GoConnect.dev
+# Hey, I'm Baldur
 
-**GoConnect** is a professional networking platform designed to help developers, startup co-founders, and innovators connect, share ideas, and foster collaboration in the tech industry. It is a community-driven space where individuals can enhance their technical skills, advance their careers, and collaborate on innovative projects.
+I’m a developer who loves building things that bring people together.  
+Most of us start projects full of energy… then end up stuck, alone, and overthinking.  
+That’s why I built **[GoConnect.dev](https://goconnect.dev)** — a place where devs, founders, and makers can find their circle and finally **launch together**.
 
-## Features
-
-- **Networking Opportunities:** Connect with other developers, co-founders, and tech enthusiasts to share experiences and ideas.
-- **Discussion Forums:** Engage in in-depth discussions around technology, development, startups, and more.
-- **Project Collaboration:** Collaborate on open-source projects or startup ideas within the community.
-- **Resource Sharing:** Share articles, resources, tutorials, and news relevant to the developer community.
-- **Career Advancement:** Opportunities for mentorship, job postings, and skill development.
-
-## Technologies
-
-GoConnect is built with modern web technologies to provide a seamless and interactive experience:
-
-- **Frontend:** Developed with [Angular](https://angular.io/) and [Tailwind CSS](https://tailwindcss.com/) for a dynamic and responsive user interface.
-- **Backend:** Powered by [Node.js](https://nodejs.org/) and [MongoDB](https://www.mongodb.com/) for efficient data management.
-- **Hosting:** Deployed on [Azure](https://azure.microsoft.com/) for reliable and scalable hosting.
-
-## Contribute
-
-Currently, **GoConnect** is not an open-source project and does not accept external contributions. However, if you are interested in collaborating or have suggestions on how to improve the platform, feel free to reach out to us.
-
-## Get Started
-
-To use **GoConnect**:
-
-1. Visit our platform online at [GoConnect.dev](https://goconnect.dev).
-2. Sign up to create an account and start exploring networking, discussion, and collaboration features.
-
-## License
-
-This project is not open-source and is not distributed under any public license.
+> Stop building alone. Find your circle. Launch together. 🚀
 
 ---
 
-This version reflects that **GoConnect** is not open-source while still highlighting its purpose and how users can interact with the platform. Feel free to adjust or expand as needed.
+### What’s GoConnect?
+GoConnect helps solo devs and small teams move from idea to launch with structure and accountability.  
+Each **Circle** is limited to 5 people, just enough for real trust and focus.  
+
+You’ll get:
+- 💬 Real-time chat and audio rooms  
+- 📅 Weekly follow-ups and check-ins  
+- 📘 Shared wikis for progress tracking  
+- 🔒 Private, distraction-free spaces  
+
+No spam. No lurkers. Just people actually building things.
+
+---
+
+### What I’m working on
+Right now, I’m focused on:
+- Making Circle matching smarter and more personal  
+- Adding AI-powered summaries and project insights  
+- Building better integrations with GitHub and Notion  
+
+### 🌍 Let’s connect
+- 🌐 [GoConnect.dev](https://goconnect.dev)  
+- 🐦 [@GoConnectDev](https://x.com/GoConnectDev)  
+- 💬 Always down to chat about products, code, or ideas  
